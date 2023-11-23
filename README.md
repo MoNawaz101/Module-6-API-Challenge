@@ -18,7 +18,8 @@
 >>>       - regression graphs are plotted to show the differences bewteen the northern and
 >>>         southern hemispheres for each of the weather conditions  
 
->output_data/cities.csv  A list of cities with data on their latitudes, longitudes, max. temp, humidity, cloudiness, wind speed and date that the weather was accessed  
+>output_data/cities.csv  A list of cities with data on their latitudes, longitudes, max. temp,
+>                        humidity, cloudiness, wind speed and date that the weather was accessed  
 >output_data/Fig1.png:   A graph of lattitude vs max. temperature  
 >output_data/Fig2.png:   A graph of lattitude vs humidity  
 >output_data/Fig3.png:   A graph of lattitude vs cloudiness  
@@ -30,12 +31,14 @@
 ### Files:  
 >    VacationPy.ipynb  
 >>         This is a Jupyter Notebook file which contains Python code to do the following;  
->>>            - plot the cities found in Part 1 and stored in output_data/cities.csv on a map using the hvplot package  
->>>            - use the cities stored in output_data/cities.csv to find the cities with an ideal set of weather conditions
->>>              using the following criteria,  
+>>>            - plot the cities found in Part 1 and stored in output_data/cities.csv on a map using the
+>>>              hvplot package  
+>>>            - use the cities stored in output_data/cities.csv to find the cities with an ideal set of
+>>>              weather conditions using the following criteria,  
 >>>>                o	A max temperature lower than 27 degrees but higher than 21  
 >>>>                o	Wind speed less than 4.5 m/s  
 >>>>                o	Zero cloudiness  
->>>            - the nearest hotel is then found in each of these cities with the ideal conditions using API requests to
->>>              the website Geoapify.com  
->>>            - the ideal vacation cities are then plotted on a map along with hotel name and country using hvplot  
+>>>            - the nearest hotel is then found in each of these cities with the ideal conditions using
+>>>              API requests to the website Geoapify.com  
+>>>            - the ideal vacation cities are then plotted on a map along with hotel name and country
+>>>              using hvplot  
