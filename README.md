@@ -3,7 +3,7 @@
 ## Part 1: Weather  
 > In this part of the assignment, a Python script is used to visualize the weather of over 500 cities of varying distances from the equator. 
 
- ###Files:  
+ ### Files:  
 >    ** WeatherPy.ipynb  
 >>        This is a Jupyter Notebook file which contains Python code to do the following;  
 >>>       - randomly generate up to 1500 sets of latitude and longitude co-ordinates
@@ -13,11 +13,11 @@
 >>>         The subsequent graphs are saved to the output_data folder  
 >>>       - regression graphs are plotted to show the differences bewteen the northern and southern hemispheres for each of the weather conditions  
 
-    output_data/cities.csv  A list of cities with data on their latitudes, longitudes, max. temp, humidity, cloudiness, wind speed and date that the weather was accessed  
-    output_data/Fig1.png:   A graph of lattitude vs max. temperature  
-    output_data/Fig2.png:   A graph of lattitude vs humidity  
-    output_data/Fig3.png:   A graph of lattitude vs cloudiness  
-    output_data/Fig4.png:   A graph of lattitude vs wind speed  
+>   output_data/cities.csv  A list of cities with data on their latitudes, longitudes, max. temp, humidity, cloudiness, wind speed and date that the weather was accessed  
+>   output_data/Fig1.png:   A graph of lattitude vs max. temperature  
+>   output_data/Fig2.png:   A graph of lattitude vs humidity  
+>   output_data/Fig3.png:   A graph of lattitude vs cloudiness  
+>   output_data/Fig4.png:   A graph of lattitude vs wind speed  
 
 Part 2: Vacation  
 In this part of the assignment the weather data accessed for Part 1 is used to plan future vacations.   
