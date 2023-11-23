@@ -4,7 +4,7 @@
 > In this part of the assignment, a Python script is used to visualize the weather of over 500 cities of varying distances from the equator. 
 
 ### Files:  
-   *** WeatherPy.ipynb***  
+    ***WeatherPy.ipynb***  
 >>        This is a Jupyter Notebook file which contains Python code to do the following;  
 >>>       - randomly generate up to 1500 sets of latitude and longitude co-ordinates
 >>>       - use the CityPy package to find a city close to each of these co-ordinates. Some sets of co-ordinates will be unsuccessful. The cities found are saved to a csv file in the output_data folder  
