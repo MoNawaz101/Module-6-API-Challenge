@@ -31,9 +31,11 @@
 >    VacationPy.ipynb  
 >>         This is a Jupyter Notebook file which contains Python code to do the following;  
 >>>            - plot the cities found in Part 1 and stored in output_data/cities.csv on a map using the hvplot package  
->>>            - use the cities stored in output_data/cities.csv to find the cities with an ideal set of weather conditions using the following criteria,  
+>>>            - use the cities stored in output_data/cities.csv to find the cities with an ideal set of weather conditions
+>>>              using the following criteria,  
 >>>>                o	A max temperature lower than 27 degrees but higher than 21  
 >>>>                o	Wind speed less than 4.5 m/s  
 >>>>                o	Zero cloudiness  
->>>            - the nearest hotel is then found in each of these cities with the ideal conditions using API requests to the website Geoapify.com  
+>>>            - the nearest hotel is then found in each of these cities with the ideal conditions using API requests to
+>>>              the website Geoapify.com  
 >>>            - the ideal vacation cities are then plotted on a map along with hotel name and country using hvplot  
