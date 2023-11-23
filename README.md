@@ -3,7 +3,7 @@
 ## Part 1: Weather  
 > In this part of the assignment, a Python script is used to visualize the weather of over 500 cities of varying distances from the equator. 
 
- ### Files:  
+### Files:  
 >    ** WeatherPy.ipynb  
 >>        This is a Jupyter Notebook file which contains Python code to do the following;  
 >>>       - randomly generate up to 1500 sets of latitude and longitude co-ordinates
