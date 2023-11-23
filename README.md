@@ -5,9 +5,9 @@
 
 ### Files:  
 >WeatherPy.ipynb  
->>        This is a Jupyter Notebook file which contains Python code to do the following;  
->>       - randomly generate up to 1500 sets of latitude and longitude co-ordinates
->>       - use the CityPy package to find a city close to each of these co-ordinates.
+>>>        This is a Jupyter Notebook file which contains Python code to do the following;  
+>>>       - randomly generate up to 1500 sets of latitude and longitude co-ordinates
+>>>       - use the CityPy package to find a city close to each of these co-ordinates.
 >>>         Some sets of co-ordinates will be unsuccessful. The cities found are saved to
 >>>         a csv file in the output_data folder  
 >>>       - an external site ,the OpenWeatherMap, is used via API requests to get the
